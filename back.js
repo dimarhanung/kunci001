@@ -1,4 +1,4 @@
- { // min and max radius, radius threshold and percentage of filled circles
+ // min and max radius, radius threshold and percentage of filled circles
 var radMin = 5,
   radMax = 125,
   filledCircle = 60, //percentage of filled circles
@@ -179,4 +179,4 @@ function draw() {
 }
 
 init();
-}
+
